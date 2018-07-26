@@ -1,0 +1,26 @@
+{
+  "name": "kickstarter-ethereum-version",
+  "version": "1.0.0",
+  "description": "This is a simple Blockchain solution to Kickstarter payment methods to avoid frauds and scams. It is built upon Ethereum and deployed on the Rinkeby Test Network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerefwayne/kickstarter-ethereum-version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerefwayne/kickstarter-ethereum-version/issues"
+  },
+  "homepage": "https://github.com/zerefwayne/kickstarter-ethereum-version#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "ganache-cli": "^6.1.6",
+    "mocha": "^5.2.0",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.26"
+  }
+}
