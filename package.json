@@ -4,7 +4,7 @@
   "description": "This is a simple Blockchain solution to Kickstarter payment methods to avoid frauds and scams. It is built upon Ethereum and deployed on the Rinkeby Test Network.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
